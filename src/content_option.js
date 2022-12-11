@@ -18,35 +18,35 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "Me myself",
     aboutme:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+        "I am an engineering graduate from IIT Patna currently working as backend software engineer @ Byjus. Just Curious about Technologies in general.",
 };
 const worktimeline = [
     {
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Board Standard XII",
+        where: "Rose Public School",
+        date: "2015-2017",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "B.Tech Chemical Engineering",
+        where: "IIT Patna",
+        date: "2018-2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Software Engineer",
+        where: "BYJUS",
+        date: "2022-Ongoing",
     },
 ];
 
 const skills = [
     {
         name: "Python",
-        value: 90,
+        value: 60,
     },
     {
-        name: "Djano",
+        name: "C++",
         value: 85,
     },
     {
@@ -55,17 +55,17 @@ const skills = [
     },
     {
         name: "React",
-        value: 60,
+        value: 45,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Node",
+        value: 75,
     },
 ];
 
 const services = [
     {
-        title: "UI & UX Design",
+        title: "Backend Microservices Architecture",
         description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
