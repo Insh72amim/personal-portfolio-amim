@@ -1,4 +1,5 @@
 ### Description
+My name is Syed Insherah Amim
 
 A simple portfolio template for developer/designers built with React. 
 
