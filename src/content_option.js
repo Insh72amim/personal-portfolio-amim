@@ -7,12 +7,12 @@ const meta = {
 const introdata = {
     title: "I’m Syed Insherah Amim",
     animated: {
-        first: "I barely exist",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I develop backend APIs",
+        second: "I can also develop UIs",
+        third: "I am learning... ",
     },
     description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+        "Hi, Welcome here! I am recent graduate of IIT Patna currently working as a Software Engineer @BYJUS. I've have a good experience of developing APIs in NodeJs.",
     your_img_url:
         "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
@@ -94,24 +94,24 @@ const dataportfolio = [
             "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     desctiption:
+    //         "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/600/?grayscale",
+    //     desctiption:
+    //         "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/300/?grayscale",
+    //     desctiption:
+    //         "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
     {
         img: "https://picsum.photos/400/700/?grayscale",
         desctiption:
@@ -131,37 +131,36 @@ const dataportfolio = [
             "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     desctiption:
+    //         "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
     {
         img: "https://picsum.photos/400/550/?grayscale",
         desctiption:
             "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     desctiption:
+    //         "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     desctiption:
+    //         "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "amim.insherah@gmail.com",
+    YOUR_FONE: "+91 8228894267",
+    description: "Feel free to mail me :)",
     // creat an emailjs.com account
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -170,9 +169,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/Insh72amim",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/syed-amim/",
     twitter: "https://twitter.com",
     youtube: "https://youtube.com",
     twitch: "https://twitch.com",
