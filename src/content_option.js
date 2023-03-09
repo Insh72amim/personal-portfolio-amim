@@ -24,76 +24,95 @@ const dataabout = {
 };
 const worktimeline = [
     {
-        jobtitle: "Board Standard XII",
-        where: "Rose Public School",
-        date: "2015-2017",
+        jobtitle: "Software Engineer",
+        where: "BYJUS",
+        date: "2022-Ongoing",
     },
     {
-        jobtitle: "B.Tech Chemical Engineering",
+        jobtitle: "B.Tech",
         where: "IIT Patna",
         date: "2018-2022",
     },
     {
-        jobtitle: "Software Engineer",
-        where: "BYJUS",
-        date: "2022-Ongoing",
+        jobtitle: "Board Standard XII",
+        where: "Rose Public School",
+        date: "2015-2017",
     },
 ];
 
 const skills = [
     {
-        name: "Python",
-        value: 60,
-    },
-    {
         name: "C++",
-        value: 85,
+        value: 90,
     },
     {
         name: "Javascript",
         value: 80,
     },
     {
-        name: "React",
-        value: 45,
+        name: "Node",
+        value: 80,
     },
     {
-        name: "Node",
-        value: 75,
+        name: "React",
+        value: 60,
+    },
+    {
+        name: "Python",
+        value: 60,
     },
 ];
 
 const services = [
     {
-        title: "Backend Microservices Architecture",
+        title: "Employee Record Microservice",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+            "Developed APIs in NodeJs to perform Basic CRUD operations with MongoDb database. Built a CI/CD pipeline using Jenkins to create and deploy the Docker cotainer on AWS EC2 instance",
     },
     {
-        title: "Mobile Apps",
+        title: "Pharmacy Management System",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+            "Developed a full stack DBMS software for effective management of a pharmaceutical store with provision for various user roles using PHP and MySQL.",
     },
     {
-        title: "Wordpress Design",
+        title: "Course CS384 Python Project",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+            "Developed a Notepad UI with features of edit, save and word count using python tkinter module. Built an Online Quiz portal in python to access questions through CSV files and save responses.",
     },
 ];
 
 const dataportfolio = [
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/400/600/?grayscale",
+        desctiption: "Pharmacy Management System",
+        link: "https://github.com/Insh72amim/Pharmacy-Management-System",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/400/300/?grayscale",
+        desctiption: "Rest API NodeJs Unit Test Mocha",
+        link: "https://github.com/Insh72amim/task-api-node-mocha",
     },
+    {
+        img: "https://picsum.photos/400/550/?grayscale",
+        desctiption: "Loop Kitchen : Backend API based on Long Polling",
+        link: "https://github.com/Insh72amim/loop-kitchen",
+    },
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        desctiption: "CS384 : Notepad Application in Python",
+        link: "https://github.com/Insh72amim/tkinter-notepad",
+    },
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        desctiption: "CS384 : Qiuz Application in Python",
+        link: "https://github.com/Insh72amim/quiz-portal",
+    },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     desctiption:
+    //         "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
     // {
     //     img: "https://picsum.photos/400/?grayscale",
     //     desctiption:
@@ -112,37 +131,12 @@ const dataportfolio = [
     //         "The wisdom of life consists in the elimination of non-essentials.",
     //     link: "#",
     // },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
     // {
     //     img: "https://picsum.photos/400/?grayscale",
     //     desctiption:
     //         "The wisdom of life consists in the elimination of non-essentials.",
     //     link: "#",
     // },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        desctiption:
-            "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
     // {
     //     img: "https://picsum.photos/400/?grayscale",
     //     desctiption:
@@ -161,8 +155,6 @@ const contactConfig = {
     YOUR_EMAIL: "amim.insherah@gmail.com",
     YOUR_FONE: "+91 8228894267",
     description: "Feel free to mail me :)",
-    // creat an emailjs.com account
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
